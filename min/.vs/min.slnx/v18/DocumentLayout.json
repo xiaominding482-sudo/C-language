@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\vs2026\\code\\min\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{614A961A-A033-4858-B6ED-9788E4C48829}|min\\min.vcxproj|D:\\vs2026\\code\\min\\xiao.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{614A961A-A033-4858-B6ED-9788E4C48829}|min\\min.vcxproj|solutionrelative:xiao.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "xiao.c",
+              "DocumentMoniker": "D:\\vs2026\\code\\min\\xiao.c",
+              "RelativeDocumentMoniker": "xiao.c",
+              "ToolTip": "D:\\vs2026\\code\\min\\xiao.c",
+              "RelativeToolTip": "xiao.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2026-07-24T09:43:20.762Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
